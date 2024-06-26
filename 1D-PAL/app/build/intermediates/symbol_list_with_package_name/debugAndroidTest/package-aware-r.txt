@@ -1,0 +1,3 @@
+com.example.a1dpal.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
